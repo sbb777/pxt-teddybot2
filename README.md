@@ -11,7 +11,7 @@ Extension for SYRobot teddybot2
 - On board 2x RGB Neo Pixels
 
 # Blocks Preview
-![block](./images/block.jpg)
+![block](./images/block.JPG)
 
 # Hardware Preview
 
