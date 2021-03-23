@@ -11,14 +11,11 @@ Extension for SYRobot teddybot2
 - On board 2x RGB Neo Pixels
 
 # Blocks Preview
-![image])
+![block](./images/block.jpg))
 
 # Hardware Preview
-## Front
-![image]()
 
-## Back
-![image](https://user-images.githubusercontent.com/3390845/2fc3.png)
+![icon](./images/icon.png)
 
 
 ----------
